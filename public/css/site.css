@@ -1,0 +1,166 @@
+@font-face {
+    font-family: "BKoodakBold";
+    src: url(http://fontonline.ir/fonts/BKoodakBold.ttf) format("truetype");
+}
+@font-face {
+    font-family: "IranSansWeb";
+    src: url('../fonts/IRANSansWeb.ttf');
+
+}
+.active{
+    color: #fcfcfc !important;
+}
+@font-face {
+    font-family: "IranSansWeb_Bold";
+    src: url('../fonts/IRANSansWeb_Bold.ttf');
+}
+@font-face {
+    font-family: "IranSansWeb_Light";
+    src: url('../fonts/IRANSansWeb_Light.ttf');
+}
+@font-face {
+    font-family: "IranSansWeb_Medium";
+    src: url('../fonts/IRANSansWeb_Medium.ttf');
+}
+@font-face {
+    font-family: "IranSansWeb_UltraLight";
+    src: url('../fonts/IRANSansWeb_UltraLight.ttf');
+}
+body{
+    font-family:  'IranSansWeb';
+
+}
+h1{
+    font-family: 'IranSansWeb_Bold';
+}
+h3{
+    font-family: 'IranSansWeb_Medium';
+}
+a,a:link{
+    color: #0f0f0f;
+}
+a:hover{
+    color: #5e5e5e;
+    text-decoration: none;
+}
+.nav a,a:link{
+    color: #fbfffd;
+}
+.nav a:hover{
+    border-radius: 3%;
+    border-top: none;
+    color: #2b365e;
+    text-decoration: none;
+}
+.nav-custom{
+    display: inline;
+    position: relative;
+}
+.left_to_right{
+    text-align: left;
+    direction: ltr;
+}
+
+.minuut_article{
+    max-width: 400px;
+    padding: 10px;
+}
+.article_subject{
+    max-width: inherit;
+    padding-bottom: 5px;
+}
+.article_content{
+    max-width: inherit;
+    border-bottom: solid rgba(0,0,0,0.8) 1px;
+
+}
+.container{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.white_background{
+    background-color: white;
+}
+.green_background{
+    background-color: #2ab27b;
+}
+.login_container{
+padding: 25px;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    min-width: 400px;
+    max-width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid #E2E2E2;
+}
+
+h2{
+    font-family: IranSansWeb !important;
+}
+#header{
+    background-color: #FFFFFF !important;
+    color: #000 !important;
+    opacity: 1 !important;
+}
+#mobileMenuBtn{
+    color: black !important;
+}
+.sideNavItemBGColor{
+    background-color: #FFFFFF !important;
+    color: black !important;
+}
+a.dashboard{
+    background-color: #FFFFFF  !important;
+    color: black !important;
+}
+li.active{
+    background-color: #FFFFFF  !important;
+    color: black !important;
+}
+span.dashboard{
+    color: black !important;
+}
+i.main-icon{
+    color: black !important;
+}
+#header{
+    background-image: none !important;
+}
+.order{
+    background-color: white;
+    border: 1px solid rgba(164, 161, 171, 0.47);
+    border-radius: 2px;
+}
+
+.uploadlbl input[type="file"]{
+    position: fixed;
+    top: -1000px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-instagram {
+
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}

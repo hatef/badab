@@ -1,0 +1,136 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "persian-date@>=0.1.8",
+        "scope": null,
+        "escapedName": "persian-date",
+        "name": "persian-date",
+        "rawSpec": ">=0.1.8",
+        "spec": ">=0.1.8",
+        "type": "range"
+      },
+      "/Users/hatefshamshiri/Documents/Sites/minuut/node_modules/persian-datepicker"
+    ]
+  ],
+  "_from": "persian-date@>=0.1.8",
+  "_id": "persian-date@0.2.0",
+  "_inCache": true,
+  "_location": "/persian-date",
+  "_nodeVersion": "7.4.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/persian-date-0.2.0.tgz_1497629401246_0.5366321506444365"
+  },
+  "_npmUser": {
+    "name": "rbabakhani",
+    "email": "babakhani.reza@gmail.com"
+  },
+  "_npmVersion": "4.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "persian-date@>=0.1.8",
+    "scope": null,
+    "escapedName": "persian-date",
+    "name": "persian-date",
+    "rawSpec": ">=0.1.8",
+    "spec": ">=0.1.8",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/persian-datepicker"
+  ],
+  "_resolved": "https://registry.npmjs.org/persian-date/-/persian-date-0.2.0.tgz",
+  "_shasum": "ca313c37d80f8cee647a03bb7919b0602eba281b",
+  "_shrinkwrap": null,
+  "_spec": "persian-date@>=0.1.8",
+  "_where": "/Users/hatefshamshiri/Documents/Sites/minuut/node_modules/persian-datepicker",
+  "author": {
+    "name": "Reza Babakhani",
+    "email": "babakhani.reza@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/babakhani/PersianDate/issues"
+  },
+  "contributors": [
+    {
+      "name": "Reza Babakhani",
+      "email": "babakhani.reza@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "description": "Javascript date library for parsing, validating, manipulating, and formatting persian dates System.",
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.4.1",
+    "babel-plugin-import": "^1.1.1",
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-latest": "^6.24.0",
+    "babel-runtime": "^6.22.0",
+    "chai": "^3.5.0",
+    "coveralls": "^2.13.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jsdoc-to-markdown": "^3.0.0",
+    "grunt-webpack": "^2.0.1",
+    "grunt-webpack-server": "^0.1.0",
+    "istanbul": "^0.4.5",
+    "jsdoc": "^3.2.0",
+    "jshint": "^2.9.4",
+    "load-grunt-tasks": "^3.5.2",
+    "mocha": "^3.2.0",
+    "mocha-lcov-reporter": "^0.0.2",
+    "pre-commit": "^1.2.2",
+    "sync-pkg": "^0.7.2",
+    "unminified-webpack-plugin": "^1.2.0",
+    "webpack": "^2.3.3"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "ca313c37d80f8cee647a03bb7919b0602eba281b",
+    "tarball": "https://registry.npmjs.org/persian-date/-/persian-date-0.2.0.tgz"
+  },
+  "gitHead": "62c79506f3adde139a3a6c974e24c4ab38797d7b",
+  "homepage": "http://babakhani.github.io/PersianWebToolkit/docs/persian-date/",
+  "keywords": [
+    "jalali-date",
+    "khayyam",
+    "date",
+    "calendar",
+    "persian-date"
+  ],
+  "license": "WTFPL",
+  "maintainers": [
+    {
+      "name": "rbabakhani",
+      "email": "babakhani.reza@gmail.com"
+    }
+  ],
+  "name": "persian-date",
+  "optionalDependencies": {},
+  "pre-commit": [
+    "test",
+    "lint"
+  ],
+  "readme": "Persian Date\n==============\n\n> This version is beta, i wish you can test it and give us feedback to make it better and release as stable version. thanks.\n\n[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/persianwebtoolkit/persiandate)\n\n\nJavascript date library for parsing, validating, manipulating, and formatting persian dates System.\n\nInspired by [momentjs](http://momentjs.com/)\n\nMore info at [wikipedia](http://en.wikipedia.org/wiki/Iranian_calendar)\n\n<a class=\"github-button\" href=\"https://github.com/babakhani/persiandate\" data-icon=\"octicon-star\" data-style=\"mega\" data-count-href=\"/babakhani/persiandate/stargazers\" data-count-api=\"/repos/babakhani/persiandate#stargazers_count\" data-count-aria-label=\"# stargazers on GitHub\" aria-label=\"Star babakhani/persiandate on GitHub\">Star</a>\n<a class=\"github-button\" href=\"https://github.com/babakhani/persiandate/issues\" data-icon=\"octicon-issue-opened\" data-style=\"mega\" data-count-api=\"/repos/babakhani/persiandate#open_issues_count\" data-count-aria-label=\"# issues on GitHub\" aria-label=\"Issue babakhani/persiandate on GitHub\">Issue</a>\n<a class=\"github-button\" href=\"https://github.com/babakhani/persiandate/fork\" data-icon=\"octicon-repo-forked\" data-style=\"mega\" data-count-href=\"/babakhani/persiandate/network\" data-count-api=\"/repos/babakhani/persiandate#forks_count\" data-count-aria-label=\"# forks on GitHub\" aria-label=\"Fork babakhani/persiandate on GitHub\">Fork</a>\n\n## Install\n\n```bash\nnpm install persian-date@beta --save-dev\nbower install persian-date@beta --save-dev\n```\n\n## Browser\n\n```html\n<script src=\"node_modules/persian-date/dist/persian-date.js\" type=\"text/javascript\"></script>\n<script type=\"text/javascript\">\n    new persianDate().format(); // \"۱۳۹۶-۰۱-۱۱ ۲۳:۳۳:۲۷ ب ظ\" (when i run in my console)  \n</script>\n```\n\n## Parse\n\nInstead of modifying the native ``` Date.prototype ``` , persianDate creates a wrapper for the Date object.\nTo get this wrapper object, simply call ``` persianDate() ``` with one of the supported input types.\n\n### Now\n\n```\npersianDate();\n```\n\nTo get the current date and time, just call ```persianDate()``` with no parameters.\n\n```javascript\nvar now = new persianDate();\n```\n\nThis is essentially the same as calling ```persianDate(new Date())``` .\n\n\n### Unix Offset (milliseconds)\n\n```\npersianDate(/* Number */);\n```\n\nSimilar to ``` new Date(Number)```, you can create a persianDate by passing an integer value representing the number of milliseconds since the Unix Epoch (Jan 1 1970 12AM UTC).\n\n\n```javascript\nvar day = new persianDate(1318781876406); // \"۱۳۹۰-۰۷-۲۴ ۱۹:۴۷:۵۶ ب ظ\"\n```\n\n### Unix Timestamp (seconds)\n\n```\npersianDate.unix(/* Number */);\n```\n\nTo create a persianDate from a Unix timestamp (seconds since the Unix Epoch), use ```persianDate.unix(Number)```\n\n```javascript\nvar day = new persianDate.unix(1318781876); // \"۱۳۹۰-۰۷-۲۴ ۱۹:۴۷:۵۶ ب ظ\"\n```\n\nThis is implemented as ```persianDate(timestamp * 1000)``` , so partial seconds in the input timestamp are included.\n\n```javascript\nvar day = persianDate.unix(1318781876);\n```\n\n### Date\n\n```javascript\nnew persianDate(new Date());\n```\n\nYou can create a ```persianDate``` with a pre-existing native Javascript ```Date``` object.\n\n```javascript\nvar day = new Date(2011, 9, 16);\nvar dayWrapper = new persianDate(day); // \"۱۳۹۰-۰۷-۲۴ ۰۰:۰۰:۰۰ ق ظ\"\n```\nThis is the fastest way to get a persianDate.js wrapper.\n\n\n### Array\n\n```javascript\nnew persianDate([1391, 12, 29, 12, 25, 25, 900]);\n```\n\nYou can create a persianDate with an array of numbers that mirror the parameters passed to new ```Date()``` But As Persian Date Number Like [1393,2,22,11,22,30]\n\n> Note:In this version array of Gregorian Date dose not Support\n> ['year', 'month', 'day', 'hour', 'minute', 'second', 'millisecond']\n\n```javascript\nnew persianDate([1393, 1, 14, 15,25, 50,125]); // \"۱۳۹۳-۰۱-۱۴ ۱۵:۲۵:۵۰ ب ظ\"\n```\n\nAny value past the year is optional, and will default to the lowest possible number.\n\n```javascript\nnew persianDate([1392]); // Farvardin 1st\nnew persianDate([1392, 6]); // Shahrivar 1st\nnew persianDate([1392, 6, 10]); // Shahrivar 10th\n```\n\n\n### ASP.NET JSON Date\n\n```\nnew persianDate(String);\n```\n\nASP.NET returns dates in JSON as ```/Date(1198908717056)/``` or ```/Date(1198908717056-0700)/```\n\nIf a string that matches this format is passed in, it will be parsed correctly.\n\n```javascript\nnew persianDate(\"/Date(1198908717056-0700)/\"); //\"۱۳۸۶-۱۰-۰۸ ۰۹:۴۱:۵۷ ق ظ\"\n```\n\n\n#### PesianDate Clone\n\n```\nnew persianDate(persianDate);\n```\n\nAll persianDate are mutable. If you want a clone of a persianDate, you can do so explicitly or implicitly.\nCalling ```persianDate()``` on a persianDate will clone it.\n\n```javascript\nvar a = new persianDate([1392]);\nvar b = new persianDate(a);\na.year(1300);\nb.year(); // 1392\n```\n\n```javascript\nvar a = new persianDate([1392]);\nvar b = a.clone();\na.year(1300);\nb.year(); // 1392\n```\n\n## Get + Set\n\npersainDate.js uses overloaded getters and setters. You may be familiar with this pattern from it's use in jQuery.\n\nCalling these methods without parameters acts as a getter, and calling them with a parameter acts as a setter.\n\nThese map to the corresponding function on the native ```Date``` object.\n\n```javascript\nnew persianDate().seconds(30).valueOf() === new Date().setSeconds(30); // true\nnew persianDate().seconds() === new Date().getSeconds(); // true\n`\n\n## Millisecond\n\n```javascript\nnew persianDate().millisecond(Number);\nnew persianDate().millisecond(); // Number\nnew persianDate().milliseconds(Number);\nnew persianDate().milliseconds(); // Number\n```\n\nGets or sets the milliseconds.\n\nAccepts numbers from 0 to 999. If the range is exceeded, it will bubble up to the seconds.\n\n### Second\n\n```javascript\nnew persianDate().second(Number);\nnew persianDate().second(); // Number\nnew persianDate().seconds(Number);\nnew persianDate().seconds(); // Number\n```\n\nGets or sets the seconds.\n\nAccepts numbers from 0 to 59. If the range is exceeded, it will bubble up to the minutes.\n\n### Minute\n\n```javascript\nnew persianDate().minute(Number);\nnew persianDate().minute(); // Number\nnew persianDate().minutes(Number);\nnew persianDate().minutes(); // Number\n```\n\nGets or sets the minutes.\n\nAccepts numbers from 0 to 59. If the range is exceeded, it will bubble up to the hours.\n\n### Hour\n\n```javascript\nnew persianDate().hour(Number);\nnew persianDate().hour(); // Number\nnew persianDate().hours(Number);\nnew persianDate().hours(); // Number\n```\n\nGets or sets the hour.\n\nAccepts numbers from 0 to 23. If the range is exceeded, it will bubble up to the day.\n\n### Date of Month\n\n```javascript\nnew persianDate().date(Number);\nnew persianDate().date(); // Number\nnew persianDate().dates(Number);\nnew persianDate().dates(); // Number\n```\n\nGets or sets the day of the month.\n\nAccepts numbers from 1 to 31. If the range is exceeded, it will bubble up to the months.\n\nNote: persianDate#date is for the date of the month, and persianDate#day is for the day of the week.\n\n### Year\n\n```javascript\nnew persianDate().year(Number);\nnew persianDate().year(); // Number\nnew persianDate().years(Number);\nnew persianDate().years(); // Number\n```\n\nGets or sets the year.\n\nAccepts numbers from -270,000 to 270,000.\n\n### Day of Week\n\n```javascript\nnew persianDate().day(); // Number\nnew persianDate().days(); // Number\n```\n\nGets the day of the week.\n\nNote: ```persianDate#date``` is for the date of the month, and ```persianDate#day``` is for the day of the week.\n\n\n## Manipulate\n\nOnce you have a PersianDate , you may want to manipulate it in some way. There are a number of methods to help with this.\n\npersianDate.js uses the [fluent interface pattern](http://en.wikipedia.org/wiki/Fluent_interface),\n also known as [method chaining](https://en.wikipedia.org/wiki/Method_chaining). This allows you to do crazy things like the following.\n\n```javascript\nnew persianDate().add('days', 7).subtract('months', 1).year(2009).hours(0).minutes(0).seconds(0);\n```\n\n> Note: It should be noted that persianDates are mutable. Calling any of the manipulation methods will change the original persianDate.\n\nIf you want to create a copy and manipulate it, you should use ```persianDate#clone``` before manipulating the persianDate.\n\n\n### Add\n\n```javascript\nnew persianDate().add(String, Number);\n```\n\nMutates the original persianDate by adding time.\n\nThis is a pretty robust function for adding time to an existing persianDate. To add time, pass the key of what time you want to add, and the amount you want to add.\n\n```javascript\nnew persianDate().add('days', 7);\n```\n\nThere are some shorthand keys as well if you're into that whole brevity thing.\n\n```javascript\nnew persianDate().add('d', 7);\n```\n\n| Key\t        | Alternate\t    | Shorthand |\n| ------------- |:-------------:|:-:|\n| years\t        | year\t        | y |\n| months\t    | month\t        | M |\n| weeks\t        | week\t        | w |\n| days\t        | day\t        | d |\n| hours\t        | hour\t        | h |\n| minutes\t    | minute\t    | m |\n| seconds   \t| second\t    | s |\n| milliseconds\t| millisecond\t| ms|\n\nIf you want to add multiple different keys at the same time, you can pass them in as an object literal.\n\n```javascript\nnew persianDate().add('days', 7).add('months', 1); // with chaining\n```\n\nThere are no upper limits for the amounts, so you can overload any of the parameters.\n\n```javascript\nnew persianDate().add('milliseconds', 1000000); // a million milliseconds\nnew persianDate().add('days', 360); // 360 days\n```\n\n### Subtract\n\n```javascript\nnew persianDate().subtract(String, Number);\n```\n\nMutates the original persianDate by subtracting time.\n\nThis is exactly the same as ```persianDate#add``` , only instead of adding time, it subtracts time.\n\n```javascript\nnew persianDate().subtract('days', 7);\n```\n\n### Start of Time\n\n```javascript\nnew persianDate().startOf(String);\n```\n\nMutates the original persianDate by setting it to the start of a unit of time.\n\n```javascript\nnew persianDate().startOf('year');   // set to Farvardin 1st, 12:00 am this year\nnew persianDate().startOf('month');  // set to the first of this month, 12:00 am\nnew persianDate().startOf('week');   // set to the first day of this week, 12:00 am\nnew persianDate().startOf('day');    // set to 12:00 am today\nnew persianDate().startOf('hour');   // set to now, but with 0 mins, 0 secs, and 0 ms\nnew persianDate().startOf('minute'); // set to now, but with 0 seconds and 0 milliseconds\nnew persianDate().startOf('second'); // same as persianDate().milliseconds(0);\n```\n\nThese shortcuts are essentially the same as the following.\n\n```javascript\nnew persianDate().startOf('year');\nnew persianDate().month(0).date(1).hours(0).minutes(0).seconds(0).milliseconds(0);\n```\n\n```javascript\nnew persianDate().startOf('hour');\nnew persianDate().minutes(0).seconds(0).milliseconds(0)\n```\n\n### End of Time\n\n```javascript\nnew persianDate().endOf(String);\n```\n\nMutates the original persianDate by setting it to the end of a unit of time.\n\nThis is the same as ```persianDate#startOf``` , only instead of setting to the start of a unit of time, it sets to the end of a unit of time.\n\n```javascript\nnew persianDate().endOf(\"year\"); // set the persianDate to 12-31 11:59:59.999 pm this year\n```\n\n## Display\n\nOnce parsing and manipulation are done, you need some way to display the persianDate.\n\n\n### Format\n\n```javascript\nnew persianDate().format();\nnew persianDate().format(String);\n```\n\nThis is the most robust display option. It takes a string of tokens and replaces them with their corresponding values.\n\n```javascript\npersianDate().format(\"dddd, MMMM DD YYYY, h:mm:ss a\"); // \"شنبه, فروردین ۱۲ ۱۳۹۶, ۵:۵۴:۱۱ ب ظ\"\npersianDate().format(\"dddd, ha\"); // \"شنبه, ۵ب ظ\"\n```\n\nThere are a couple conventions used with the naming of the\n\n\n| Type\t            | Tocken\t    | Output |\n| -------------     |:-------------:|:------:|\n| Month             | M\t            | ۱ ۲ ... ۱۱ ۱۲|\n|        \t        | MM\t        | ۰۱ ۰۲ ... ۱۱ ۱۲|\n|        \t        | MMM\t        | فرو ارد ... اسف|\n|                   | MMMM\t        | فروردین اردیبهشت ... اسفند |\n| Day of month      | D            | ۱ ۲ ... ۳۰ ۳۱|\n|                   | DD           | ۰۱ ۰۲ ... ۳۰ ۳۱|\n| Day of year       | DDD          | ۱ ۲ ... ۳۶۴ ۳۶۵|\n|                   | d            | ۰ ۱ ... ۵ ۶|\n|                   | dd            | ش ی ... ج|\n|                   | ddd       |شنبه یکشنبه ... جمعه|\n|                   | dddd    |انارام مانتره سپند ... اشتاد |\n| Week of Year      | w            | ۱ ۲ ... ۵۲ ۵۳ |\n|                   | ww           | ۰۱ ۰۲ ... ۵۲ ۵۳ |\n|Year               | YY           | ۶۶ ۹۱ ... ۹۸ ۳۰ |\n|                   | YYY          | ۱۳۶۶ ۱۳۹۱ ... ۱۳۹۸ ۱۴۰۱ |\n| AM/PM              | a            | \"ق ظ\", \"ب ظ\" |\n| Hour              | H            | ۰ ۱ ... ۲۲ ۲۳ |\n|                   | HH           | ۰۰ ۰۱ ... ۲۲ ۲۳ |\n|                   | h            | ۱ ۲ ... ۱۱ ۱۲ |\n|                   | hh           | ۰۱ ۰۲ ... ۱۱ ۱۲ |\n| Minute            | m            | ۰ ۱ ... ۵۸ ۵۹ |\n|                   | mm           | ۰۰ ۰۱ ... ۵۸ ۵۹ |\n| Second            | s            | ۰ ۱ ... ۵۸ ۵۹ |\n|                   | ss           | ۰۰ ۰۱ ... ۵۸ ۵۹ |\n| Unix Timestamp     | X            | 1360013296 |\n| Timezone          | Z            | -۰۴:۳۰ -۰۵:۰۰ ... +۰۴:۳۰ +۰۵:۰۰ |\n|                   | ZZ           | -۰۴۳۰ -۰۵:۰۰ ... +۰۴:۳۰ +۰۵:۰۰ |\n\n\n### Long Date formats\n\n| Type\t                                            | Tocken\t    | Output |\n| -------------                                     |:-------------:|:------:|\n| Time                                              | LT            | \"۴:۱۵ ب ظ\"|\n| Month numeral, day of month, year                 | L             | ۱۳۹۲/۰۲/۲۰ |\n|                                                   | l             | ۳۹۲/۲/۲۰ |\n| Month name, day of month, year                    | LL            | اردیبهشت ۲۰ ۱۳۹۲|\n|                                                   | ll            | ارد ۲۰ ۱۳۹۲|\n| Month name, day of month, year, time              | LLL           | اردیبهشت ۱۳۹۲ ۲۰ ۴:۲۳ ب ظ|\n|                                                   | lll           | ارد ۱۳۹۲ ۲۰ ۴:۲۳ ب ظ|\n| Month name, day of month, day of week, year, time | LLLL          | جمعه ۲۰ اردیبهشت ۱۳۹۲ ۴:۲۵ ب ظ |\n|                                                   | llll          | ج ۲۰ ارد ۱۳۹۲ ۴:۲۷ ب ظ |\n\n\n### Default format\n\nISO8601 format ```YYYY-MM-DDTHH:mm:ssZ```\n\"۱۳۹۱-۱۰-۰۴ ۱۱:۲۷:۵۳ ق ظ\"\n\n\n### Format To Persian date\n\nBy Default persianDate format, use Persian Number System, for engilsh number Set formatPersian Option as false\n\n```javascript\nvar d = new persianDate([1391]);\nd.format(); //\"۱۳۹۱-۰۱-۰۱ ۰۰:۰۰:۰۰ ق ظ\"\nwindow.formatPersian = false;\nd.format(); //\"1391-01-01 00:00:00 AM\"\n```\n\nAlso you can set golbal config like this\n```javascript\nwindow.formatPersian  = false;\n```\n\n> Note: After Set Golbal config you can set config for every instance\n\n```javascript\nvar d = new persianDate([1391]);\nd.format(); //\"۱۳۹۱-۰۱-۰۱ ۰۰:۰۰:۰۰ ق ظ\"\nwindow.formatPersian = false;\nd.format(); //\"1391-01-01 00:00:00 AM\"\nd.formatPersian = true;\nd.format(); //\"۱۳۹۱-۰۱-۰۱ ۰۰:۰۰:۰۰ ق ظ\"\n```\n\t\t\t\n### Difference\n\n```\nnew persianDate().diff(PersianDate|String|Boolean);\n```\n\nTo get the difference in milliseconds, use ```persianDate#diff``` like you would use ```persianDate#from``` .\n\n```javascript\nvar a = new persianDate([1392, 0, 29]);\nvar b = new persianDate([1392, 0,28]);\na.diff(b) // 86400000\n```\n\nTo get the difference in another unit of measurement, pass that measurement as the second argument.\n\n```javascript\nvar a = new persianDate([1392, 0,29]);\nvar b = new persianDate([1392,0,28]);\na.diff(b, 'days'); // 1\n```\n\nThe supported measurements are years, months, weeks, days, hours, minutes, and seconds. For ease of development, the singular forms are supported .\n\n```javascript\nvar a = new persianDate([1391, 0]);\nvar b = new persianDate([1392, 5]);\na.diff(b, 'years');\na.diff(b, 'years', true);\n```\n\n\nIf the persianDate is later than the persianDate you are passing to ```persianDate.fn.diff``` , the return value will be negative.\n\n```javascript\nvar a = new persianDate();\nvar b = new persianDate().add('seconds', 1);\na.diff(b); // -1000\nb.diff(a); // 1000\n```\n\nA easy way to think of this is by replacing ```.diff(``` with a minus operator.\n\n```javascript\na.diff(b);\nb.diff(a);\n```\n\n### Unix Offset (milliseconds)\n\n```javascript\nnew persianDate().valueOf();\n```\n\n```persianDate#valueOf``` simply outputs the number of milliseconds since the Unix Epoch, just like ```Date#valueOf``` .\n\n```javascript\nnew persianDate(1318874398806).valueOf(); // 1318874398806\nnew persianDate(1318874398806).format(); // \"۱۳۹۰-۰۷-۲۵ ۲۱:۲۹:۵۸ ب ظ\"\n```\n\nTo get a Unix timestamp (the number of seconds since the epoch) from a ```persianDate``` , use ```persianDate#unix``` .\n\n### Unix Timestamp (seconds)\n\n```javascript\nnew persianDate().unix();\n```\n\n```persianDate#unix``` outputs a Unix timestamp (the of seconds since the Unix Epoch).\n\n```javascript\nnew persianDate(1318874398806).unix(); // 1318874398\n```\n\nThis value is floored to the nearest second, and does not include a milliseconds component.\n\n### Timezone Offset\n\n```javascript\nnew persianDate().zone();\n```\n\nGet the timezone offset in minutes.\n\n```javascript\nnew persianDate().zone(); // (60, 120, 240, -270, etc.)\n```\n\n### Days in Month\n\n```javascript\nnew persianDate().daysInMonth();\n```\n\nGet the number of days in the current month.\n\n```javascript\nnew persianDate([1392,1]).daysInMonth(); // 31\nnew persianDate([1392,8]).daysInMonth(); // 30\nnew persianDate([1392,12]).daysInMonth(); // 29\nnew persianDate([1391,12]).daysInMonth(); // 30\n```\n\n### As Javascript Date\n\n```javascript\nnew persianDate().toDate();\n```\n\nTo get the native ```Date``` object that ```persianDate.js``` wraps, use ```persianDate#toDate``` .\n\nThis will return the ```Date``` that the ```persianDate``` uses, so any changes to that ```Date``` will cause the persianDate to change. If you want a Date that is a copy, use ```persianDate#clone``` before you use ```persianDate#toDate``` .\n\n### As Array\n\n```javascript\nnew persianDate().toArray();\n```\n\nThis returns an array that mirrors the parameters from new ```persianDate()``` .\n\n```javascript\nnew persianDate().toArray(); // [1391, 1, 4, 14, 40, 16, 154];\n```\n\n## Quert\n\n### Is Leap Year\n\n```javascript\nnew persianDate().isLeapYear();\n```\n\n```persianDate#isLeapYear``` returns true if that year is a leap year, and ```false``` if it is not.\n\n```javascript\nnew persianDate([1391]).isLeapYear(); // true\nnew persianDate([1392]).isLeapYear(); // false\nnew persianDate([1393]).isLeapYear(); // false\nnew persianDate([1394]).isLeapYear(); // false\nnew persianDate([1395]).isLeapYear(); // true\nnew persianDate([1396]).isLeapYear(); // false\n```\n\n### Is Daylight Saving Time\n\n```javascript\nnew persianDate().isDST();\n```\n\n```persianDate#isDST``` checks if the current persianDate is in daylight savings time.\n\n> Note: [Daylight saving time in Iran](https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B9%D8%AA_%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%DB%8C)\n\n```javascript\nnew persianDate([1396, 2, 12]).isDST(); // false\nnew persianDate([1396, 7, 14]).isDST(); // true\n```\n\n### Is a PersainDat\n\n```javascript\nvar obj = new persianDate();\nnew persianDate().isPersianDate(obj); // true\n```\n\nTo check if a variable is a persianDate object, use ```persianDate().isPersianDate()``` .\n\n```javascript\nnew persianDate().isPersianDate(); // false\nnew persianDate().isPersianDate(new Date()); // false\nnew persianDate().isPersianDate(persianDate()); // true\n```",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/babakhani/PersianDate.git"
+  },
+  "scripts": {
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "dev": "webpack --watch & webpack-dev-server --port 5000 --watch --hot",
+    "doc": "grunt --doc",
+    "lint": "./node_modules/jshint/bin/jshint src/*.js",
+    "minify": "MIN=1 webpack",
+    "sync-pkg": "sync-pkg",
+    "test": "nyc --reporter=html --reporter=text mocha"
+  },
+  "version": "0.2.0"
+}
